@@ -1,17 +1,3 @@
-/*
-C-Programming
----------------------------------------------------------------------
-Topic        : Loop- For Loop
-Description  : Pattern 4
-                   *
-                  **
-                 ***
-                ****
-Programmer   : S. M. Nasrullah Hamim
-                    hamim321182@gmail.com
-Date         : 16/10/2024
----------------------------------------------------------------------
-*/
 #include<stdio.h>
 int main()
 {
@@ -33,4 +19,5 @@ int main()
 
        printf("\n");
     }
+
 }
